@@ -9,7 +9,7 @@ public class Persona {
     private String email;
 
     /**
-     * Contrcutor con parametos
+     * Contrucutor con parametos
      * @param nombre
      * @param apellidos
      * @param edad
